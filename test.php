@@ -1,3 +1,3 @@
 require 'vendor/autoload.php';
-$test = "test";
+$test = "test123";
 echo $test;
